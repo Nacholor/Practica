@@ -1,2 +1,2 @@
-# Practica
-Practica2prog2
+# Practica_2 
+
